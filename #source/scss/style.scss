@@ -1,0 +1,11 @@
+
+//Подключения шрифта для всех элементов
+*{
+	font-family: "Roboto", sans-serif;
+}
+
+//Импорт нужных файлов проекта
+@import "_variables.scss";
+@import "_general.scss";
+@import "_media.scss";
+
